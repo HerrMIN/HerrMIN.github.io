@@ -4,7 +4,7 @@ title:  "Cras in tristique ipsum"
 description: Vivamus eu ante mollis augue semper tempus. Cras vulputate, orci sodales pretium semper, est sapien vehicula est, a convallis massa nibh sed nulla.
 date: 2017-02-23
 categories: technology update
-img: screw.jpg
+img: flower.jpg
 author: Artem Sheludko
 ---
 Ut tempus elementum erat ut sodales. Fusce vulputate tempor hendrerit. Etiam vel dui tempor, pharetra ante ac, pharetra enim. Integer in nibh at leo porta semper et et nibh. Mauris velit massa, ullamcorper ut tellus vel, auctor imperdiet purus. Nullam convallis imperdiet sapien ut dignissim. Integer maximus dui augue, quis consectetur massa dictum auctor. Nulla et sodales nulla. Maecenas pellentesque eu turpis et molestie. Nunc ut lobortis augue. Donec hendrerit massa accumsan erat sagittis viverra. Nullam efficitur vel eros vulputate tempus. Sed eu quam eget velit dictum ullamcorper. Ut orci mi, condimentum sit amet dapibus tempus, scelerisque at nisl. Mauris posuere ut magna eget vehicula. Donec feugiat, ipsum ut venenatis tempus, lacus dolor eleifend mauris, sit amet posuere ipsum diam et mauris.
